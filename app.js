@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:8080/api/v1/auth';
+const API_BASE = 'https://zero-trust-authentication-system.onrender.com';
 
 // DOM Elements
 const loginToggle = document.getElementById('login-toggle');
